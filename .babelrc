@@ -1,0 +1,10 @@
+{
+  "env": {
+    "server": {
+      "presets": ["node8"]
+    },
+    "client": {
+      "presets": ["next/babel"]
+    }
+  }
+}
